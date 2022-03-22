@@ -1,3 +1,3 @@
 "# DjangoReact" 
-Premiére application réalisée apres la formation de djando et react
-Application pour la gestion des livraison dévloppée en django (backend) and react (fronend)
+Premiére application réalisée aprés la formation de django et react
+Application pour la gestion des livraisons, dévloppée en django (backend) and react (fronend)
