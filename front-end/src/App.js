@@ -3,6 +3,7 @@ import React, { Component } from "react";
 import Modal from "./components/modal";
 import axios from 'axios'; 
 
+
 class App extends Component {
   constructor(props) {
     super(props);
@@ -142,8 +143,8 @@ class App extends Component {
 
   render() {
     return (
-      <main className="content p-3 nb-2 bg-info ">
-        <h2 className="text-white text-uppercase text-center my-4">Gestion des livraisons</h2>
+      <main className="container ">
+        <h3 className="my-4 nb-2 bg-info text-white text-center">Gestion des livraisons</h3>
         <div className="row ">
           <div className="col-md-6 col-sm-10 mx-auto p-0">
             <div className="card p-3">

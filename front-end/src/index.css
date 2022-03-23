@@ -9,6 +9,9 @@ body {
 .todo-title{
   cursor:pointer;
 }
+.container{
+  background-image: url(./images/repas1.jpg);
+}
 .completed-todo { 
   text-decoration: line-through;
 }
